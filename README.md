@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours documentaire en français](docs/fr/) explique la zkVM RISC-V, les AIR, FRI, la récursion et les enveloppes SNARK.
+
 # SP1
 
 ![SP1](./assets/sp1.png)
